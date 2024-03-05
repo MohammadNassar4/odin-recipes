@@ -1,0 +1,36 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(34, 32, 32);
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+img {
+    width: 600px;
+    height: auto;
+    padding-left: 33%;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: xx-large;
+    padding-left: 20px;
+}
+
+p  {
+    color: #ffffff;
+    font-size: 22px;
+    text-align: center;
+    font-weight: 600;
+}
+
+li {
+    color: #ffffff;
+    font-size: 22px;
+}
+
