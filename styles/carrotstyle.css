@@ -3,6 +3,11 @@
     background-color: rgb(34, 32, 32);
 }
 
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
 h1 {
     color: #ffffff;
     font-size: 50px;
@@ -10,16 +15,36 @@ h1 {
     font-weight: bolder;
 }
 
+.title-hr {
+    color: #48ff00;
+    width: 400px;
+    height: 4px;
+    margin-bottom: 55px;
+    background-color: #48ff00;
+    border-radius: 10px;
+}
+
 img {
     width: 600px;
     height: auto;
-    padding-left: 33%;
+    margin-left: 300px;
+    margin-bottom: 55px;
 }
 
 h2 {
     color: #ffffff;
     font-size: xx-large;
     padding-left: 20px;
+}
+
+.description-hr {
+    color: #48ff00;
+    width: 300px;
+    height: 4px;
+    margin-bottom: 55px;
+    margin-left: 20px;
+    background-color: #48ff00;
+    border-radius: 10px;
 }
 
 p  {
@@ -29,8 +54,41 @@ p  {
     font-weight: 600;
 }
 
+.ingredients-hr {
+    color: #48ff00;
+    width: 420px;
+    height: 4px;
+    margin-bottom: 55px;
+    margin-left: 20px;
+    background-color: #48ff00;
+    border-radius: 10px;
+}
+
 li {
     color: #ffffff;
     font-size: 22px;
 }
 
+.steps-hr {
+    color: #48ff00;
+    width: 100px;
+    height: 4px;
+    margin-bottom: 55px;
+    margin-left: 20px;
+    background-color: #48ff00;
+    border-radius: 10px;
+}
+
+button {
+    margin: 50px auto 50px auto;
+    color: #ffffff;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bolder;
+    width: 150px;
+    height: 50px;
+    margin-left: 550px;
+    padding: 5px;
+    border-color: #48ff00;
+    border-radius: 30px;
+}
