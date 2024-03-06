@@ -17,6 +17,7 @@ h1 {
 
 .title-hr {
     color: #48ff00;
+    border-color: #48ff00;
     width: 400px;
     height: 4px;
     margin-bottom: 55px;
@@ -39,6 +40,7 @@ h2 {
 
 .description-hr {
     color: #48ff00;
+    border-color: #48ff00;
     width: 300px;
     height: 4px;
     margin-bottom: 55px;
@@ -56,6 +58,7 @@ p  {
 
 .ingredients-hr {
     color: #48ff00;
+    border-color: #48ff00;
     width: 420px;
     height: 4px;
     margin-bottom: 55px;
@@ -71,6 +74,7 @@ li {
 
 .steps-hr {
     color: #48ff00;
+    border-color: #48ff00;
     width: 100px;
     height: 4px;
     margin-bottom: 55px;
